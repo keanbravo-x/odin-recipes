@@ -1,2 +1,2 @@
 # odin-recipes
-A couple of recipes for some finest dishes.
+A couple of recipes of some fine dishes.
